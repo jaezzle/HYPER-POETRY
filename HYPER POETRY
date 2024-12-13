@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whispered Roots</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            text-align: center;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        a {
+            color: #0077cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+        .section {
+            padding: 20px;
+        }
+        .nav-links {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Whispered Roots</h1>
+    <div class="nav-links">
+  <p><a href="#seedling">A seedling dreams.</a></p>
+        <p><a href="#sunlight">Sunlight filters through.</a></p>
+        <p><a href="#rainfall">Rain falls, soft and steady.</a></p>
+    </div>
+
+    <div id="seedling" class="section">
+        <h2>Seedling</h2>
+        <p>Life unfurls,<br>tiny tendrils seeking—<br>but is it light<br>or shadows they crave?</p>
+        <img src="https://via.placeholder.com/400x200?text=Seedling" alt="Seed sprouting">
+        <p><a href="#soil">The soil speaks.</a></p>
+    </div>
+
+    <div id="sunlight" class="section">
+        <h2>Sunlight</h2>
+        <p>Golden veins stretch<br>across a cloud-patched sky.<br>A fragile hope,<br>or a promise?</p>
+        <img src="https://via.placeholder.com/400x200?text=Sunlight" alt="Sunlight breaking through leaves">
+        <p><a href="#leaves">The leaves answer.</a></p>
+    </div>
+
+    <div id="rainfall" class="section">
+        <h2>Rainfall</h2>
+        <p>Each drop sings,<br>a thousand hymns of growth,<br>or drowning?</p>
+        <img src="https://via.placeholder.com/400x200?text=Rainfall" alt="Raindrops hitting the ground">
+        <p><a href="#roots">The roots decide.</a></p>
+    </div>
+
+    <div id="soil" class="section">
+ <h2>Soil</h2>
+        <p>It cradles, it smothers,<br>it feeds, it traps.<br>Home.</p>
+        <img src="https://via.placeholder.com/400x200?text=Soil" alt="Fertile soil with tiny roots">
+        <p><a href="#life">Life struggles on.</a></p>
+    </div>
+
+    <div id="leaves" class="section">
+        <h2>Leaves</h2>
+        <p>Dappled light dances,<br>cutting shapes into dreams.<br>Tomorrow whispers,<br>and the wind listens.</p>
+        <img src="https://via.placeholder.com/400x200?text=Leaves" alt="Leaves swaying in the breeze">
+        <p><a href="#time">Time shifts.</a></p>
+    </div>
+
+    <div id="roots" class="section">
+        <h2>Roots</h2>
+        <p>Buried truths,<br>never seen but always known.<br>The heart beats<br>deep within the earth.</p>
+        <img src="https://via.placeholder.com/400x200?text=Roots" alt="Root systems underground">
+        <p><a href="#tree">A tree stands tall.</a></p>
+    </div>
+
+    <div id="tree" class="section">
+        <h2>Tree</h2>
+        <p>Shadows ripple<br>under spreading arms.<br>A journey ends<br>only to begin again.</p>
+        <img src="https://via.placeholder.com/400x200?text=Tree" alt="Tree swaying against a sunset">
+        <p><a href="#seedling">A seedling dreams.</a></p>
+    </div>
+</body>
+</html>
